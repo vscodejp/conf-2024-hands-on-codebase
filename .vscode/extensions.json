@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-ceintl.vscode-language-pack-ja",
+    "dbaeumer.vscode-eslint",
+    "github.copilot",
+    "github.copilot-chat",
+    "esbenp.prettier-vscode",
+    "vue.volar"
+  ]
+}
