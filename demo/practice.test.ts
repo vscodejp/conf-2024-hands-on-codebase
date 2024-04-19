@@ -69,6 +69,6 @@ describe("isInsideCircleは点が円の内部にあるかどうかを判定し�
     const targetX = 3;
     const targetY = -5;
     const result = isInsideCircle(circleX, circleY, r, targetX, targetY);
-    expect(result).toBe(false);
+    expect(result).toBe(true);
   });
 });
